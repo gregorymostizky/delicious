@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="GemRequirementsHolder" version="3">
+    <requirement>
+      <requirement>
+        <dependency name="feedzirra" version="0" bound="GREATER_OR_EQUAL" git="true" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="hpricot" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="i18n" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.bundle" />
+    </content>
+    <orderEntry type="jdk" jdkName="Ruby SDK 1.9.2-p180" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] bundler (v1.0.10, /home/builder/.rvm/gems/ruby-1.9.2-p180@global/gems/bundler-1.0.10)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] feedzirra (v0.0.24, /home/builder/.rvm/gems/ruby-1.9.2-p180/bundler/gems/feedzirra-07fd6aaeec09)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] builder (v3.0.0, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/builder-3.0.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activesupport (v3.0.5, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] nokogiri (v1.4.4, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/nokogiri-1.4.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] loofah (v1.0.0, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/loofah-1.0.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] curb (v0.7.15, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/curb-0.7.15)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sax-machine (v0.0.16, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/sax-machine-0.0.16)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] nokogiri (v1.4.4, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/nokogiri-1.4.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] i18n (v0.5.0, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/i18n-0.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] hpricot (v0.8.4, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/hpricot-0.8.4)" level="application" />
+  </component>
+</module>
+
